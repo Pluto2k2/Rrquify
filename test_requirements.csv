@@ -1,0 +1,21 @@
+Requirement
+The system shall allow users to register using their email address and a password.
+The application must load the main dashboard within 1.5 seconds under normal conditions.
+All passwords must be stored using bcrypt hashing with a minimum cost factor of 12.
+The user interface shall follow the company's brand guidelines including colors and logo placement.
+The system shall be deployable on both Windows Server 2019 and Ubuntu 22.04 LTS.
+New users should be able to complete the registration process without any external help or documentation.
+The system must maintain 99.9% uptime during business hours.
+The application shall support exporting reports in PDF and Excel formats.
+The system shall handle at least 500 concurrent users without performance degradation.
+All API endpoints must require OAuth 2.0 token-based authentication.
+Error messages shall be displayed in plain language that non-technical users can understand.
+The system shall use a consistent color scheme with a maximum of five primary colors.
+The application must be compatible with the latest versions of Chrome, Firefox, Safari, and Edge.
+The system shall send email notifications when a user's order status changes.
+Response time for database queries shall not exceed 200 milliseconds for 95% of requests.
+The source code must comply with the organization's coding standards and be peer-reviewed before deployment.
+The system shall provide a search function that returns results ranked by relevance.
+Two-factor authentication must be available for all administrator accounts.
+The application shall support internationalization for at least English, French, and Arabic.
+The system must be able to recover from a server failure within 30 seconds without data loss.
